@@ -1,0 +1,27 @@
+{
+  "overview": "A fully functional e-commerce clothing store with product catalog, shopping cart, Stripe checkout, user accounts via Internet Identity, wishlist, order tracking, admin panel, FAQ, contact, and returns pages.",
+  "features": [
+    "Product catalog with 16+ products across Men, Women, Kids, Accessories",
+    "Filtering by size, color, and price range with search suggestions",
+    "Shopping cart with quantity controls, taxes, and shipping estimate",
+    "Multi-step Stripe checkout with order confirmation",
+    "User login via Internet Identity with profile dashboard",
+    "Wishlist to save favorite products",
+    "Order history with Pending / Processing / Shipped / Delivered statuses",
+    "Fully functional admin panel to view and update all orders",
+    "FAQ with collapsible answers, Contact form, Returns policy page",
+    "Modern minimalist design with gold accent (#C9A96E) and responsive mobile-first layout"
+  ],
+  "category": "e-commerce",
+  "tags": [
+    "e-commerce",
+    "fashion",
+    "clothing",
+    "store",
+    "stripe",
+    "admin",
+    "wishlist",
+    "order-management"
+  ],
+  "last_updated": "2026-04-11T19:15:45.244Z"
+}
